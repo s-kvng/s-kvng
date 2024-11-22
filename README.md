@@ -22,17 +22,19 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Nextjs](https://img.shields.io/badge/-Nextjs-05122A%3Fstyle%3Dflat%26logo%3Dnextjs?style=flat&logo=nextdotjs&color=%23000000
+)&nbsp;
 
 
 
 - 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/s-kvng](https://github.com/s-kvng)
 
--  👯 I’m looking to collaborate on project which uses any react, laravel, python, django etc
--  - 🌱 I’m currently learning Advanced React
+-  👯 I’m looking to collaborate on project which uses any react, Nextjs, Laravel, python, django etc
+-  - 🌱 I’m currently learning Nextjs 15 
 
 - 💬 Ask me about **anything :)**
 
-- 📫 How to reach me **kvngnathan8420@gmail.com**
+- 📫 How to reach me **nathanieladama8420@gmail.com**
 
 - ⚡ Fun fact **you can find me on LinkedIn: @Nathaniel E. Adama**
 
