@@ -5,7 +5,7 @@
 
 <br>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;TECH STACKS
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -24,6 +24,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-Nextjs-05122A%3Fstyle%3Dflat%26logo%3Dnextjs?style=flat&logo=nextdotjs&color=%23000000
 )&nbsp;
+
+
+### 📊GITHUB STATS
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=s-kvng&show_icons=true&hide=issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true)
+
+### 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kvng&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true)
 
 
 
