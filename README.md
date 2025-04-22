@@ -9,10 +9,12 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![NPM](https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=092E20)&nbsp;
-![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![WEBPACK](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
